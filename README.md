@@ -45,23 +45,14 @@ The goal was to:
 
 ---
 
-## 📁 Files Included
+## 🌐 View Live Dashboard
 
-- `starter series.pptx` – Reference dataset & visualization guidelines  
-- `Stranger_Things_Dashboard.twbx` – Tableau workbook file  
-- `README.md` – Project description (you’re reading it!)
+Click the link below to explore the interactive Tableau dashboard for *Stranger Things*:
 
----
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/blessy.evangeline.aaron/viz/DV2-Blessy/Dashboard1?publish=yes)
 
-## 🖼️ Should You Add Screenshots?
+## 📸 Dashboard Preview
 
-> ✅ **YES, highly recommended!**
+![Stranger Things Dashboard](screenshots/stranger_things_dashboard.png)
 
-Adding dashboard screenshots makes your repo:
-- More visual & impressive for professors or recruiters
-- Easier for viewers to understand what the dashboard looks like
-- Useful if someone doesn’t have Tableau installed
 
-📌 Tip: Add them in a folder like `/screenshots/` and link in the README like this:
-```markdown
-![Dashboard Preview](screenshots/stranger_things_dashboard.png)
